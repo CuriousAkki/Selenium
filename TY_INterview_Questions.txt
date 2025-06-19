@@ -1,0 +1,9 @@
+TSYS IQ
+1. Static keyword
+2. Static class object creation?
+3. Can we create object of interface?
+4. Smoke Vs Sanity
+5. Boubndary Value Analysis
+6. Inheritance
+7. API testing
+status code - 3**, 301, 501

@@ -1,0 +1,5 @@
+1. List Vs ArrayList
+2. Handling frames in selenium
+3. write a selenium code validate password of 4 charters, two numbers
+4. Handling windows in selenium
+5. Throw Vs Throws
